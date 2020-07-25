@@ -1,2 +1,0 @@
-# dice
-my dice game
